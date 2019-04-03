@@ -1,6 +1,10 @@
 {
   "studio-open-web": {},
   "studio-open-git": {
+    "https://gist.github.com/fd1602bce81ca9096db3f28648b3d312.git:LoadIMUServer.groovy": [
+      "https://gist.github.com/fd1602bce81ca9096db3f28648b3d312.git",
+      "LoadIMUServer.groovy"
+    ],
     "https://gist.github.com/e4a139b01d813e0d24022124a6781594.git:BNO055Visualizer.groovy": [
       "https://gist.github.com/e4a139b01d813e0d24022124a6781594.git",
       "BNO055Visualizer.groovy"
